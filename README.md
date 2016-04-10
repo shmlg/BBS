@@ -3,4 +3,4 @@
 
 ## 所有群消息参见wiki
 
-［消息wiki] (https://github.com/shmlg/BBS/wiki)
+https://github.com/shmlg/BBS/wiki
